@@ -1,0 +1,11 @@
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\bin\Debug\netcoreapp2.0\AngularCoreProto.deps.json
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\bin\Debug\netcoreapp2.0\AngularCoreProto.runtimeconfig.json
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\bin\Debug\netcoreapp2.0\AngularCoreProto.runtimeconfig.dev.json
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\bin\Debug\netcoreapp2.0\AngularCoreProto.dll
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\bin\Debug\netcoreapp2.0\AngularCoreProto.pdb
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\obj\Debug\netcoreapp2.0\AngularCoreProto.csprojResolveAssemblyReference.cache
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\obj\Debug\netcoreapp2.0\AngularCoreProto.csproj.CoreCompileInputs.cache
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\obj\Debug\netcoreapp2.0\AngularCoreProto.AssemblyInfoInputs.cache
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\obj\Debug\netcoreapp2.0\AngularCoreProto.AssemblyInfo.cs
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\obj\Debug\netcoreapp2.0\AngularCoreProto.dll
+C:\Users\alverer\source\repos\AngularCoreProto\AngularCoreProto\obj\Debug\netcoreapp2.0\AngularCoreProto.pdb
