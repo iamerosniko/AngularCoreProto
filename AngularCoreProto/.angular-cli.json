@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "ClientApp",
-      "outDir": "dist",
+      "outDir": "wwwroot",
       "assets": [
         "assets",
         "favicon.ico"
@@ -19,9 +19,14 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+        "./assets/css/font-awesome-4.7.0/css/font-awesome.css",
+        "../node_modules/bootstrap/dist/css/bootstrap.css",
+        "../node_modules/bootstrap/dist/css/bootstrap-theme.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "../node_modules/jquery/dist/jquery.js",
+        "../node_modules/bootstrap/dist/js/bootstrap.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
